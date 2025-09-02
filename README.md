@@ -27,4 +27,6 @@ Feel free to suggest new, calm, and universally applicable reflection prompts by
 ---
 
 ### Connect with EchoedMusing:
-*   [Blog (PensiveTrajectories)](https://pensivetrajecories.blogspot.com/)
+   [Blog (PensiveTrajectories)](https://pensivetrajecories.blogspot.com/)
+*   [Chess.com Profile](https://www.chess.com/member/EchoedMusing)
+*   [Digital Serenity Resources](https://github.com/EchoedMusing/Digital-Serenity-Resources)
